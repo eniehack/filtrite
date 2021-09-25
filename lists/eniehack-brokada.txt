@@ -1,0 +1,8 @@
+# oisd
+https://abp.oisd.nl/basic/
+
+# 1Hosts
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+
+# Tofu-filter
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
